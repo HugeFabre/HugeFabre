@@ -56,6 +56,7 @@ origin: 🌊 Jarocho
 now:
   - Technical Lead en Proscai
   - Maestría en DevOps · UNIR
+  - GitHub de trabajo · HugoFabre-Dev
 
 camino:
   - eCommerce Tech Lead · iShop Mixup
@@ -63,7 +64,7 @@ camino:
   - Ingeniería en Computación · IPN
 
 off_duty:
-  - 🎮 Gamer
+  - 🎮 Fortnite Gamer
 
 superpower: >
   Traducir la operación de una tienda
@@ -85,18 +86,61 @@ philosophy: |
 # 🛒 Lo que hago cada día
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-echo "🧭 Liderar equipos de desarrollo"
-echo "🏬 Conectar tienda, ERP y eCommerce"
-echo "📱 Construir apps para la operación"
-echo "🔗 Integrar pagos, inventario y logística"
-echo "🛡️ Meter seguridad en el pipeline"
-echo "📊 Medir lo que pasa en producción"
+echo "🧭 Liderar el desarrollo de Proscai"
+echo "🏬 ERP y punto de venta para retail"
+echo "📦 Inventario, almacenes y compras"
+echo "🧾 Tickets, CXC y CXP que cierren"
+echo "🤖 Copilotos de código en el equipo"
+echo "🔗 Conectar tienda, ERP y eCommerce"
 echo "🎮 Seguir aprendiendo,"
-echo "   una oportunidad a la vez"
+echo "   un día a la vez"
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
 exit 0 # la mejor inversión eres tú
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏬 En Proscai
+
+</div>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+### `$ cat ~/proscai.yaml`
+
+```yaml
+empresa: Proscai
+rol: Technical Lead
+desde: julio 2025
+producto: ERP + punto de venta
+github: HugoFabre-Dev
+
+trabajo:
+  - Liderar el equipo de desarrollo
+  - El ERP que usa el retail en México
+  - Inventario, almacenes y compras
+  - Tickets de tienda, CXC y CXP
+  - Consultas y modelo de datos en MySQL
+  - Reglas de código para copilotos de IA
+```
+
+</td>
+<td width="45%" valign="top">
+
+Desde 2025 lidero el desarrollo técnico de **Proscai**, un ERP mexicano con punto de venta para que la tienda opere con control.
+
+El día a día es el producto: existencias por almacén, compras, cobro en piso, cuentas por cobrar y por pagar. El núcleo de datos corre en **MySQL**. También metí al equipo un set de reglas para trabajar con copilotos de código.
+
+Cuenta de trabajo: [HugoFabre-Dev](https://github.com/HugoFabre-Dev)
 
 </td>
 </tr>
@@ -126,11 +170,12 @@ exit 0 # la mejor inversión eres tú
 
 ### 🛒 Comercio y sistemas
 
+<img src="https://img.shields.io/badge/Proscai_ERP-F5A623?style=for-the-badge&logoColor=0B1F3A" />
+<img src="https://img.shields.io/badge/Punto_de_venta-F5A623?style=for-the-badge&logoColor=0B1F3A" />
 <img src="https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/REST-0B1F3A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ERP_%C2%B7_POS-F5A623?style=for-the-badge&logoColor=0B1F3A" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ### 🗄️ Datos
 
@@ -158,13 +203,17 @@ exit 0 # la mejor inversión eres tú
 
 ## 🛠️ Donde se ve el trabajo
 
+<a href="https://github.com/HugoFabre-Dev/ai-specs">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoFabre-Dev&repo=ai-specs&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&icon_color=F5A623&border_color=0D1117&hide_border=true" />
+</a>
 <a href="https://github.com/HugeFabre/DevSecOps-Azure-Final">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugeFabre&repo=DevSecOps-Azure-Final&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&icon_color=F5A623&border_color=0D1117&hide_border=true" />
 </a>
 
 <br/>
 
-CI/CD seguro en Azure DevOps: API .NET 8, Bicep, despliegue blue/green, Key Vault y Application Insights.
+**ai-specs** — reglas y estándares para copilotos de código en el trabajo de Proscai.  
+**DevSecOps-Azure-Final** — CI/CD seguro en Azure DevOps: API .NET 8, Bicep, blue/green, Key Vault y Application Insights.
 
 </div>
 
@@ -194,6 +243,7 @@ CI/CD seguro en Azure DevOps: API .NET 8, Bicep, despliegue blue/green, Key Vaul
 <br/>
 
 <a href="https://github.com/HugeFabre"><img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/GitHub_Proscai-0078D4?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/xXPoshitoXx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.instagram.com/huguitofabre"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
