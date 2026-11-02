@@ -22,7 +22,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   > Tech Lead   > POS móvil   > Almacén   > Cloud                ║
+║   > Tech Lead   > Equipo   > Múltiples productos   > Cloud       ║
 ║                                                                  ║
 ║   "Aprendiendo algo nuevo cada oportunidad."                     ║
 ║                                                                  ║
@@ -53,8 +53,9 @@ location: 🇲🇽 Ciudad de México
 origin: 🌊 Jarocho
 
 ahora:
-  - Tech Lead de producto en retail
-  - Liderar POS, almacén y APIs
+  - Coordinar un equipo multidisciplinario
+    de desarrollo para múltiples productos
+  - POS, almacén y APIs
   - Maestría en DevOps · UNIR
 
 camino:
@@ -85,7 +86,8 @@ philosophy: |
 # 🧭 Tech Lead
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-echo "🧭 Marcar el rumbo técnico del equipo"
+echo "🧭 Coordinar un equipo multidisciplinario"
+echo "   para múltiples productos"
 echo "📱 Releases de POS móvil a piso"
 echo "📦 Apps de inventario y surtido"
 echo "🔌 Pedidos de canales al ERP"
@@ -110,7 +112,7 @@ exit 0 # la mejor inversión eres tú
 
 </div>
 
-Lidero el desarrollo del software que mueve una tienda: cobro en piso, almacén y lo que entra desde el canal digital. El rol no es solo escribir código: es dejar al equipo alineado, sacar versiones a piso y que POS, inventario y API hablen el mismo idioma.
+Coordino un equipo multidisciplinario de desarrollo para múltiples productos: cobro en piso, almacén y canal digital. El rol no es solo escribir código: es alinear al equipo, sacar versiones a piso y que POS, inventario y API hablen el mismo idioma.
 
 <table align="center">
 <tr>
@@ -127,7 +129,8 @@ Lidero el desarrollo del software que mueve una tienda: cobro en piso, almacén 
 
 **Cómo lo lidero**
 
-- Defino rumbo técnico y priorizo lo que llega a piso.
+- Coordino un equipo multidisciplinario sobre varios productos a la vez.
+- Defino rumbo técnico y priorizo en Linear lo que llega a piso.
 - Saco releases, reviso PRs y dejo reglas compartidas para copilotos (`ai-specs`).
 - Integro delivery y marketplaces a pedido del ERP.
 - Facturación por folio de ticket y conectores de eCommerce.
@@ -188,6 +191,7 @@ Lidero el desarrollo del software que mueve una tienda: cobro en piso, almacén 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Fly.io-24192F?style=for-the-badge&logo=flydotio&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" />
 
 ### 🛒 Trayectoria
 
