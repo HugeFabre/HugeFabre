@@ -204,10 +204,10 @@ Cuenta de trabajo: [HugoFabre-Dev](https://github.com/HugoFabre-Dev)
 ## 🛠️ Donde se ve el trabajo
 
 <a href="https://github.com/HugoFabre-Dev/ai-specs">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HugoFabre-Dev&repo=ai-specs&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&icon_color=F5A623&border_color=0D1117&hide_border=true" />
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=HugoFabre-Dev&repo=ai-specs&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&icon_color=F5A623&border_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/HugeFabre/DevSecOps-Azure-Final">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HugeFabre&repo=DevSecOps-Azure-Final&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&icon_color=F5A623&border_color=0D1117&hide_border=true" />
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=HugeFabre&repo=DevSecOps-Azure-Final&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&icon_color=F5A623&border_color=0D1117&hide_border=true" />
 </a>
 
 <br/>
@@ -225,8 +225,8 @@ Cuenta de trabajo: [HugoFabre-Dev](https://github.com/HugoFabre-Dev)
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HugeFabre&show_icons=true&theme=transparent&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&icon_color=F5A623&border_color=0D1117&hide_border=true&rank_icon=github" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HugeFabre&layout=compact&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&border_color=0D1117&hide_border=true" width="40%" />
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=HugeFabre&show_icons=true&theme=transparent&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&icon_color=F5A623&border_color=0D1117&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=HugeFabre&layout=compact&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&border_color=0D1117&hide_border=true" width="40%" />
 
 <br/><br/>
 
