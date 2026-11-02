@@ -5,14 +5,14 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=HUGO+FABRE+%7C+Tech+Lead+Proscai;code+%7C%7C+!code%2C+esa+es+la+cuesti%C3%B3n" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=0B1F3A&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=HUGO+FABRE+%7C+Tech+Lead+Proscai;code+%7C%7C+!code%2C+esa+es+la+cuesti%C3%B3n" />
-  <img alt="Hugo Fabre · Tech Lead Proscai" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=HUGO+FABRE+%7C+Tech+Lead+Proscai;code+%7C%7C+!code%2C+esa+es+la+cuesti%C3%B3n" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;code+%7C%7C+!code%2C+esa+es+la+cuesti%C3%B3n" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=0B1F3A&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;code+%7C%7C+!code%2C+esa+es+la+cuesti%C3%B3n" />
+  <img alt="Hugo Fabre · Tech Lead" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;code+%7C%7C+!code%2C+esa+es+la+cuesti%C3%B3n" />
 </picture>
 
 <br/>
 
-<a href="https://www.proscai.com"><img src="https://img.shields.io/badge/Tech_Lead-Proscai-0078D4?style=for-the-badge&logoColor=white&labelColor=0B1F3A" /></a>
+<a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/Tech_Lead-0078D4?style=for-the-badge&logoColor=white&labelColor=0B1F3A" /></a>
 <a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/POS_·_almacén_·_API-F5A623?style=for-the-badge&logoColor=0B1F3A" /></a>
 <a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/Kotlin_·_.NET-3DB9FF?style=for-the-badge&logoColor=0B1F3A" /></a>
 <a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/GCP_·_Vercel_·_Fly.io-0B1F3A?style=for-the-badge&logoColor=white" /></a>
@@ -34,7 +34,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=600&color=F5A623&center=true&vCenter=true&width=820&height=50&lines=%24+whoami;Hugo+Fabre+Leyva+%7C+Tech+Lead+en+Proscai;%24+cat+passion.txt;Que+la+tienda+no+se+detenga;%24+echo+%24MISSION;Aprender+algo+nuevo+en+cada+oportunidad" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=600&color=F5A623&center=true&vCenter=true&width=820&height=50&lines=%24+whoami;Hugo+Fabre+Leyva+%7C+Tech+Lead;%24+cat+passion.txt;Que+la+tienda+no+se+detenga;%24+echo+%24MISSION;Aprender+algo+nuevo+en+cada+oportunidad" />
 </div>
 
 <br/>
@@ -49,12 +49,11 @@
 name: Hugo Fabre Leyva
 alias: Hugo
 role: Tech Lead
-company: Proscai
 location: 🇲🇽 Ciudad de México
 origin: 🌊 Jarocho
 
 ahora:
-  - Tech Lead en Proscai
+  - Tech Lead de producto en retail
   - Liderar POS, almacén y APIs
   - Maestría en DevOps · UNIR
 
@@ -83,13 +82,14 @@ philosophy: |
 ```bash
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 🧭 Tech Lead · Proscai
+# 🧭 Tech Lead
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-echo "🧭 Liderar al equipo de desarrollo"
-echo "📱 Releases del POS móvil (SUNMI)"
-echo "📦 Colector, picker y verificador"
-echo "🔌 Pedidos de delivery al ERP"
+echo "🧭 Marcar el rumbo técnico del equipo"
+echo "📱 Releases de POS móvil a piso"
+echo "📦 Apps de inventario y surtido"
+echo "🔌 Pedidos de canales al ERP"
+echo "👀 Code review y estándares"
 echo "☁️  Sacar producto a cloud"
 echo "🎮 Seguir aprendiendo,"
 echo "   un día a la vez"
@@ -106,40 +106,41 @@ exit 0 # la mejor inversión eres tú
 
 <div align="center">
 
-## 🏬 Tech Lead en Proscai
+## 🧭 Cómo trabajo como Tech Lead
 
 </div>
 
-Lidero el desarrollo del software que mueve la tienda: cobro en piso, almacén y lo que entra desde el canal digital. El producto vive en repos privados de [proscai](https://github.com/proscai). El detalle técnico está en [HugoFabre-Dev](https://github.com/HugoFabre-Dev).
+Lidero el desarrollo del software que mueve una tienda: cobro en piso, almacén y lo que entra desde el canal digital. El rol no es solo escribir código: es dejar al equipo alineado, sacar versiones a piso y que POS, inventario y API hablen el mismo idioma.
 
 <table align="center">
 <tr>
 <td valign="top" width="33%">
 
-**Punto de venta**
+**Alcance**
 
-- **ePOS / Rompefilas** — POS Android en terminales SUNMI. Cobra con o sin red y no pierde la venta.
-- Precios del ticket alineados con el ERP.
+- POS Android en terminales SUNMI: cobro con o sin red, precios en el aparato, la venta no se cae si se corta internet.
+- Almacén: inventario (barras y RFID), surtido y verificación de mercancía.
+- Parámetros a pistolas y terminales de piso sin pasar por el portal del fabricante.
 
 </td>
 <td valign="top" width="33%">
 
-**Almacén**
+**Cómo lo lidero**
 
-- **Colector** — inventario, barras y RFID.
-- **Picker** — surtido en piso.
-- **Checker** — verificar mercancía.
-- **Dashboard SUNMI** — parámetros a pistolas y terminales.
+- Defino rumbo técnico y priorizo lo que llega a piso.
+- Saco releases, reviso PRs y dejo reglas compartidas para copilotos (`ai-specs`).
+- Integro delivery y marketplaces a pedido del ERP.
+- Facturación por folio de ticket y conectores de eCommerce.
 
 </td>
 <td valign="top" width="34%">
 
-**API y canales**
+**Backend y cloud**
 
-- **Proscai API** en .NET: pedidos y tickets.
-- Traductores: Foodbot, Mercado Libre, Uber.
-- Facturación web por folio.
-- eCommerce: Shopify, Tiendanube.
+- API en .NET: pedidos y tickets.
+- Colas y traductores (Foodbot, Mercado Libre, Uber).
+- Shopify, Tiendanube.
+- Despliegue en **GCP**, **Vercel** y **Fly.io**, con Azure en la trayectoria DevOps.
 
 </td>
 </tr>
@@ -147,13 +148,13 @@ Lidero el desarrollo del software que mueve la tienda: cobro en piso, almacén y
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Pull_Requests-295-3DB9FF?style=for-the-badge&labelColor=0B1F3A" alt="295 pull requests en Proscai" />
-<img src="https://img.shields.io/badge/Commits-1.200+-F5A623?style=for-the-badge&labelColor=0B1F3A" alt="más de 1.200 commits en Proscai" />
 <img src="https://img.shields.io/badge/Rol-Tech_Lead-0078D4?style=for-the-badge&labelColor=0B1F3A" alt="Tech Lead" />
+<img src="https://img.shields.io/badge/Pull_Requests-295-3DB9FF?style=for-the-badge&labelColor=0B1F3A" alt="295 pull requests" />
+<img src="https://img.shields.io/badge/Commits-1.200+-F5A623?style=for-the-badge&labelColor=0B1F3A" alt="más de 1.200 commits" />
 
 <br/>
 
-<sub>actividad de la cuenta de trabajo en la org. el código del producto no es público.</sub>
+<sub>actividad en repos privados de producto. el código no es público.</sub>
 
 </div>
 
@@ -211,7 +212,7 @@ Lidero el desarrollo del software que mueve la tienda: cobro en piso, almacén y
 
 <br/>
 
-**ai-specs** — reglas para copilotos de código en el equipo de Proscai. El resto del producto está en [HugoFabre-Dev](https://github.com/HugoFabre-Dev).  
+**ai-specs** — reglas para copilotos de código en el equipo. Más contexto de producto en [HugoFabre-Dev](https://github.com/HugoFabre-Dev).  
 **DevSecOps-Azure-Final** — CI/CD en Azure: API .NET, Bicep, blue/green, Key Vault.
 
 </div>
@@ -244,8 +245,7 @@ Lidero el desarrollo del software que mueve la tienda: cobro en piso, almacén y
 <br/>
 
 <a href="https://github.com/HugeFabre"><img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/GitHub_Proscai-0078D4?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/proscai"><img src="https://img.shields.io/badge/org_proscai-0B1F3A?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/GitHub_trabajo-0078D4?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/xXPoshitoXx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.instagram.com/huguitofabre"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
