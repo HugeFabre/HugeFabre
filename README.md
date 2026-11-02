@@ -22,7 +22,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   > Tech Lead   > Equipo multidisciplinario   > Android iOS Web  ║
+║   > Tech Lead   > Equipo   > Android iOS Web   > Cloud           ║
 ║                                                                  ║
 ║   "Aprendiendo algo nuevo cada oportunidad."                     ║
 ║                                                                  ║
@@ -57,6 +57,7 @@ ahora:
   - Coordinar un equipo multidisciplinario
     de desarrollo para múltiples productos
   - Apps Android, iOS y web
+  - Cloud: GCP, Vercel, Fly.io
   - Maestría en DevOps · UNIR
 
 camino:
@@ -111,7 +112,7 @@ exit 0 # la mejor inversión eres tú
 
 </div>
 
-Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múltiples productos — aplicaciones **Android**, **iOS** y **web**. El rol no es solo escribir código: es alinear al equipo, sacar versiones y que móvil, web y API hablen el mismo idioma.
+Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múltiples productos — aplicaciones **Android**, **iOS** y **web**, más **cloud**. El rol no es solo escribir código: es alinear al equipo, sacar versiones y que móvil, web, API y cloud hablen el mismo idioma.
 
 <table align="center">
 <tr>
@@ -135,12 +136,12 @@ Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múl
 </td>
 <td valign="top" width="34%">
 
-**Cómo lo lidero**
+**Cloud**
 
-- Coordino al equipo sobre varios productos a la vez.
-- Rumbo técnico, Linear, releases y code review.
-- Reglas compartidas para copilotos (`ai-specs`).
-- APIs .NET y cloud: **GCP**, **Vercel**, **Fly.io**.
+- **GCP**, **Vercel** y **Fly.io**.
+- APIs .NET detrás de las apps.
+- Linear para priorizar el trabajo del equipo.
+- Azure en la trayectoria DevOps.
 
 </td>
 </tr>
