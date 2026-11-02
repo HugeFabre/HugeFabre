@@ -202,9 +202,6 @@ Lidero el desarrollo del software que mueve la tienda: cobro en piso, almacén y
 
 ## 🛠️ Donde se ve el trabajo
 
-<a href="https://github.com/HugoFabre-Dev">
-<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=HugoFabre-Dev&repo=HugoFabre-Dev&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&icon_color=F5A623&hide_border=true" />
-</a>
 <a href="https://github.com/HugoFabre-Dev/ai-specs">
 <img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=HugoFabre-Dev&repo=ai-specs&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&icon_color=F5A623&hide_border=true" />
 </a>
@@ -214,8 +211,7 @@ Lidero el desarrollo del software que mueve la tienda: cobro en piso, almacén y
 
 <br/>
 
-**HugoFabre-Dev** — perfil de trabajo: POS, almacén y API en Proscai.  
-**ai-specs** — reglas para copilotos de código en el equipo.  
+**ai-specs** — reglas para copilotos de código en el equipo de Proscai. El resto del producto está en [HugoFabre-Dev](https://github.com/HugoFabre-Dev).  
 **DevSecOps-Azure-Final** — CI/CD en Azure: API .NET, Bicep, blue/green, Key Vault.
 
 </div>
