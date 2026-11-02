@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/Tech_Lead-0078D4?style=for-the-badge&logoColor=white&labelColor=0B1F3A" /></a>
-<a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/POS_·_almacén_·_API-F5A623?style=for-the-badge&logoColor=0B1F3A" /></a>
+<a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/Android_·_iOS_·_Web-F5A623?style=for-the-badge&logoColor=0B1F3A" /></a>
 <a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/Kotlin_·_.NET-3DB9FF?style=for-the-badge&logoColor=0B1F3A" /></a>
 <a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/GCP_·_Vercel_·_Fly.io-0B1F3A?style=for-the-badge&logoColor=white" /></a>
 
@@ -22,7 +22,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   > Tech Lead   > Equipo   > Múltiples productos   > Cloud       ║
+║   > Tech Lead   > Equipo multidisciplinario   > Android iOS Web  ║
 ║                                                                  ║
 ║   "Aprendiendo algo nuevo cada oportunidad."                     ║
 ║                                                                  ║
@@ -53,9 +53,10 @@ location: 🇲🇽 Ciudad de México
 origin: 🌊 Jarocho
 
 ahora:
+  - Tech Lead
   - Coordinar un equipo multidisciplinario
     de desarrollo para múltiples productos
-  - POS, almacén y APIs
+  - Apps Android, iOS y web
   - Maestría en DevOps · UNIR
 
 camino:
@@ -86,12 +87,10 @@ philosophy: |
 # 🧭 Tech Lead
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-echo "🧭 Coordinar un equipo multidisciplinario"
-echo "   para múltiples productos"
-echo "📱 Releases de POS móvil a piso"
-echo "📦 Apps de inventario y surtido"
-echo "🔌 Pedidos de canales al ERP"
+echo "🧭 Tech Lead: equipo multidisciplinario"
+echo "📱 Apps Android, iOS y web"
 echo "👀 Code review y estándares"
+echo "📋 Priorizar el trabajo en Linear"
 echo "☁️  Sacar producto a cloud"
 echo "🎮 Seguir aprendiendo,"
 echo "   un día a la vez"
@@ -112,38 +111,36 @@ exit 0 # la mejor inversión eres tú
 
 </div>
 
-Coordino un equipo multidisciplinario de desarrollo para múltiples productos: cobro en piso, almacén y canal digital. El rol no es solo escribir código: es alinear al equipo, sacar versiones a piso y que POS, inventario y API hablen el mismo idioma.
+Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múltiples productos — aplicaciones **Android**, **iOS** y **web**. El rol no es solo escribir código: es alinear al equipo, sacar versiones y que móvil, web y API hablen el mismo idioma.
 
 <table align="center">
 <tr>
 <td valign="top" width="33%">
 
-**Alcance**
+**Android**
 
-- POS Android en terminales SUNMI: cobro con o sin red, precios en el aparato, la venta no se cae si se corta internet.
-- Almacén: inventario (barras y RFID), surtido y verificación de mercancía.
-- Parámetros a pistolas y terminales de piso sin pasar por el portal del fabricante.
+- Apps Kotlin / Compose en piso y almacén.
+- Cobro en terminales SUNMI, con o sin red.
+- Inventario (barras y RFID), surtido y verificación.
 
 </td>
 <td valign="top" width="33%">
 
-**Cómo lo lidero**
+**iOS y web**
 
-- Coordino un equipo multidisciplinario sobre varios productos a la vez.
-- Defino rumbo técnico y priorizo en Linear lo que llega a piso.
-- Saco releases, reviso PRs y dejo reglas compartidas para copilotos (`ai-specs`).
-- Integro delivery y marketplaces a pedido del ERP.
-- Facturación por folio de ticket y conectores de eCommerce.
+- Apps iOS en Swift para el mismo ecosistema de producto.
+- Aplicaciones web: facturación, dashboards y backoffice.
+- Conectores de eCommerce y canales digitales.
 
 </td>
 <td valign="top" width="34%">
 
-**Backend y cloud**
+**Cómo lo lidero**
 
-- API en .NET: pedidos y tickets.
-- Colas y traductores (Foodbot, Mercado Libre, Uber).
-- Shopify, Tiendanube.
-- Despliegue en **GCP**, **Vercel** y **Fly.io**, con Azure en la trayectoria DevOps.
+- Coordino al equipo sobre varios productos a la vez.
+- Rumbo técnico, Linear, releases y code review.
+- Reglas compartidas para copilotos (`ai-specs`).
+- APIs .NET y cloud: **GCP**, **Vercel**, **Fly.io**.
 
 </td>
 </tr>
@@ -171,13 +168,14 @@ Coordino un equipo multidisciplinario de desarrollo para múltiples productos: c
 
 <div align="center">
 
-### 📱 Piso
+### 📱 Apps
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cs,dotnet&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,cs,dotnet,ts&theme=dark" />
 <br/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Web-3DB9FF?style=for-the-badge&logoColor=0B1F3A" />
 <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/SUNMI-0B1F3A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 ### 🧠 Datos e integraciones
 
