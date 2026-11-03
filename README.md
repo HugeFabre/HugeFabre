@@ -5,24 +5,25 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;code+%7C%7C+!code%2C+esa+es+la+cuesti%C3%B3n" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=0B1F3A&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;code+%7C%7C+!code%2C+esa+es+la+cuesti%C3%B3n" />
-  <img alt="Hugo Fabre · Tech Lead" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;code+%7C%7C+!code%2C+esa+es+la+cuesti%C3%B3n" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;Agentic+Developer+%C2%B7+LATAM" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=0B1F3A&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;Agentic+Developer+%C2%B7+LATAM" />
+  <img alt="Hugo Fabre · Tech Lead · Agentic Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;Agentic+Developer+%C2%B7+LATAM" />
 </picture>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/Tech_Lead-0078D4?style=for-the-badge&logoColor=white&labelColor=0B1F3A" /></a>
+<a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/Agentic_Developer-5E6AD2?style=for-the-badge&logoColor=white&labelColor=0B1F3A" /></a>
 <a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/Android_·_iOS_·_Web-F5A623?style=for-the-badge&logoColor=0B1F3A" /></a>
-<a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/Kotlin_·_.NET-3DB9FF?style=for-the-badge&logoColor=0B1F3A" /></a>
 <a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/GCP_·_Vercel_·_Fly.io-0B1F3A?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/LATAM-3DB9FF?style=for-the-badge&logoColor=0B1F3A" /></a>
 
 <br/><br/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   > Tech Lead   > Equipo   > Android iOS Web   > Cloud           ║
+║   > Tech Lead   > Agentic Developer   > Apps   > Cloud           ║
 ║                                                                  ║
 ║   "Aprendiendo algo nuevo cada oportunidad."                     ║
 ║                                                                  ║
@@ -34,7 +35,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=600&color=F5A623&center=true&vCenter=true&width=820&height=50&lines=%24+whoami;Hugo+Fabre+Leyva+%7C+Tech+Lead;%24+cat+passion.txt;Que+la+tienda+no+se+detenga;%24+echo+%24MISSION;Aprender+algo+nuevo+en+cada+oportunidad" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=600&color=F5A623&center=true&vCenter=true&width=860&height=50&lines=%24+whoami;Hugo+Fabre+%7C+Tech+Lead+%C2%B7+Agentic+Developer;%24+cat+passion.txt;Que+la+tienda+no+se+detenga;%24+echo+%24MISSION;Aprender+algo+nuevo+en+cada+oportunidad" />
 </div>
 
 <br/>
@@ -46,14 +47,13 @@
 ### 🧬 `$ cat about_hugo.yaml`
 
 ```yaml
-name: Hugo Fabre Leyva
-alias: Hugo
-role: Tech Lead
-location: 🇲🇽 Ciudad de México
-origin: 🌊 Jarocho
+name: Hugo Fabre
+role: Tech Lead · Agentic Developer
+location: 🌎 LATAM
 
 ahora:
   - Tech Lead
+  - Agentic Developer
   - Coordinar un equipo multidisciplinario
     de desarrollo para múltiples productos
   - Apps Android, iOS y web
@@ -85,10 +85,11 @@ philosophy: |
 ```bash
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 🧭 Tech Lead
+# 🧭 Tech Lead · Agentic Developer
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 echo "🧭 Tech Lead: equipo multidisciplinario"
+echo "🤖 Agentic Developer: agentes y copilotos"
 echo "📱 Apps Android, iOS y web"
 echo "👀 Code review y estándares"
 echo "📋 Priorizar el trabajo en Linear"
@@ -108,11 +109,11 @@ exit 0 # la mejor inversión eres tú
 
 <div align="center">
 
-## 🧭 Cómo trabajo como Tech Lead
+## 🧭 Cómo trabajo como Tech Lead · Agentic Developer
 
 </div>
 
-Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múltiples productos — aplicaciones **Android**, **iOS** y **web**, más **cloud**. El rol no es solo escribir código: es alinear al equipo, sacar versiones y que móvil, web, API y cloud hablen el mismo idioma.
+Soy **Tech Lead** y **Agentic Developer**: coordino un equipo multidisciplinario de desarrollo para múltiples productos — aplicaciones **Android**, **iOS** y **web**, más **cloud** — y meto agentes y copilotos al flujo de trabajo del equipo. El rol no es solo escribir código: es alinear al equipo, sacar versiones y que móvil, web, API y cloud hablen el mismo idioma.
 
 <table align="center">
 <tr>
@@ -141,6 +142,7 @@ Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múl
 - **GCP**, **Vercel** y **Fly.io**.
 - APIs .NET detrás de las apps.
 - Linear para priorizar el trabajo del equipo.
+- Agentes, MCP y reglas para copilotos (`ai-specs`).
 - Azure en la trayectoria DevOps.
 
 </td>
@@ -149,7 +151,8 @@ Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múl
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Rol-Tech_Lead-0078D4?style=for-the-badge&labelColor=0B1F3A" alt="Tech Lead" />
+<img src="https://img.shields.io/badge/Tech_Lead-0078D4?style=for-the-badge&labelColor=0B1F3A" alt="Tech Lead" />
+<img src="https://img.shields.io/badge/Agentic_Developer-5E6AD2?style=for-the-badge&labelColor=0B1F3A" alt="Agentic Developer" />
 <img src="https://img.shields.io/badge/Pull_Requests-295-3DB9FF?style=for-the-badge&labelColor=0B1F3A" alt="295 pull requests" />
 <img src="https://img.shields.io/badge/Commits-1.200+-F5A623?style=for-the-badge&labelColor=0B1F3A" alt="más de 1.200 commits" />
 
@@ -191,6 +194,8 @@ Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múl
 <img src="https://img.shields.io/badge/Fly.io-24192F?style=for-the-badge&logo=flydotio&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-3DB9FF?style=for-the-badge&logoColor=0B1F3A" />
+<img src="https://img.shields.io/badge/Agentic-5E6AD2?style=for-the-badge&logoColor=white" />
 
 ### 🛒 Trayectoria
 
@@ -260,7 +265,7 @@ Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múl
   ╔═══════════════════════════════════════════════════════════╗
   ║                                                           ║
   ║   "La mejor inversión siempre será en ti mismo."          ║
-  ║                                                    — Hugo ║
+  ║                                              — Hugo Fabre ║
   ║                                                           ║
   ╚═══════════════════════════════════════════════════════════╝
 ```
